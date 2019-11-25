@@ -54,6 +54,8 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="MearghBranch\MBranch2.cs" />
+    <Compile Include="MearghBranch\MBranch21.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TestingValues\TestinGValuesDone.cs" />
